@@ -1,0 +1,32 @@
+/* (Inline - ID Selector - Class celector - Teg)   0-0-0-0  */
+
+.pera{
+    color: blue;
+}
+
+/* (Inline - ID Selector - Class celector - Teg)  0-0-0-1 */
+
+p{
+    color: blueviolet;
+}
+
+/* (Inline - ID Selector - Class celector - Teg)  0-1-0-0 */
+#heading{
+    color: aqua;
+}
+
+/* (Inline - ID Selector - Class celector - Teg)  0-0-0-1 */
+h1{
+    color: chartreuse;
+}
+
+/* (Inline - ID Selector - Class celector - Teg)  0-0-1-0 */
+.Hello {
+    color: darkgreen;
+}
+
+/* (Inline - ID Selector - Class celector - Teg)  0-0-0-6 */
+div > div > div > div > div > p {
+
+    color: darkorange;
+}
